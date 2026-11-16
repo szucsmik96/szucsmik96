@@ -11,4 +11,4 @@ Software engineer in Budapest. I bring **SAP Business One** to the web, and AI t
 
 **Stack:** C# · .NET · Entity Framework · Angular · TypeScript · SAPUI5 · MSSQL · SAP HANA · Azure DevOps · Claude Code
 
-[LinkedIn](https://www.linkedin.com/in/mikl%C3%B3s-sz%C5%B1cs-37a5b4132/)
+[Portfolio](https://mszucs.dev) · [LinkedIn](https://www.linkedin.com/in/mikl%C3%B3s-sz%C5%B1cs-37a5b4132/)
